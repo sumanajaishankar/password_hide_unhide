@@ -1,0 +1,35 @@
+body{
+    align-items:center;
+    height:100vh;
+    justify-content:center;
+    display:flex;
+    background:black;
+
+}
+
+
+.input-box{
+    height:30px;
+    background:#fff;
+    width:90%;
+    max-width:500px;
+    border-radius:5px;
+    padding:10px 20px;
+    display:flex;
+    align-item:center;
+}
+
+.input-box input{
+    width:100%;
+    border:0;
+    font-size:24px;
+    outline:0;
+}
+
+.input-box img{
+    cursor:pointer;
+    height:25px;
+    width:28px;
+    margin-top:3px;
+}
+
